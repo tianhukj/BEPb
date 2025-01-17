@@ -2,12 +2,12 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/tianhukj/tianhukj"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/tianhukj/tianhukj?color=blue"></a>
+    <a href="https://github.com/tianhukj/tianhukj/stargazers"><img src="https://img.shields.io/github/stars/tianhkj/tianhukj.svg?logo=github"></a>
+    <a href="https://github.com/tianhukj/tianhukj/network/members"><img src="https://img.shields.io/github/forks/tianhukj/tianhukj.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=tianhukj/tianhukj" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+tianhukj;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
@@ -52,18 +52,18 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=tianhukj&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tianhukj&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj"></img>
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/tianhukj/tianhukj/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
+<!--   grid-snake ![](https://github.com/tianhukj/tianhukj/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!--   skyline 
@@ -72,9 +72,9 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=tianhukn" width="auto"></img>
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tianhukj&show-other-skills=true" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
@@ -89,7 +89,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianhukj" alt="tianhukj" /></a>
 </p>
 
 
@@ -166,7 +166,7 @@ width="30%">
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+<img src="https://profile-counter.glitch.me/tianhukj/count.svg">  
 
 counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -174,14 +174,14 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tianhukj/tianhukj&type=Date)](https://star-history.com/#tianhukj/tianhukj&Date)
 
 
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@tianhukj.github.readme)
 </br>
 
 [MIT](LICENSE)
