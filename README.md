@@ -4,8 +4,8 @@
 <p align="center">
     <a href="https://github.com/tianhukj/tianhukj"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/tianhukj/tianhukj?color=blue"></a>
-    <a href="https://github.com/tianhukj/tianhukj/stargazers"><img src="https://img.shields.io/github/stars/tianhkj/tianhukj.svg?logo=github"></a>
+    <a href="https://github.com/tianhukj/tianhukj/graphs/contributors"><img src="https://img.shields.io/github/contributors/tianhukj/tianhukj?color=blue"></a>
+    <a href="https://github.com/tianhukj/tianhukj/stargazers"><img src="https://img.shields.io/github/stars/tianhukj/tianhukj.svg?logo=github"></a>
     <a href="https://github.com/tianhukj/tianhukj/network/members"><img src="https://img.shields.io/github/forks/tianhukj/tianhukj.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=tianhukj/tianhukj" alt="visitors"/>   
 </p>
