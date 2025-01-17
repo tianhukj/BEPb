@@ -69,8 +69,7 @@
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
 
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
-
-**📫 How to Reach me:**
+ 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
