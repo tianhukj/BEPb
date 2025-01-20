@@ -57,6 +57,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj"></img>
 
 
+<img src="https://github.com/tianhukj/tianhukj/blob/main/download.svg"></img>
+
+
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
 
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
